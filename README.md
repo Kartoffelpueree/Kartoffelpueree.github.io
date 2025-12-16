@@ -1,2 +1,2 @@
-# Kartoffelp-ree.github.io
+# Kartoffelpueree.github.io
 My test project 
