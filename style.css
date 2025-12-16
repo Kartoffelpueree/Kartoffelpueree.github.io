@@ -1,6 +1,6 @@
 body {
-  background-color: #111;   /* dunkler Hintergrund */
-  color: #eee;              /* helle Schrift */
+  background-color: 111;  
+  color: eee;              
   margin: 0;
   font-family: Arial, sans-serif;
 }
