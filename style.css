@@ -1,0 +1,6 @@
+body {
+  background-color: #111;   /* dunkler Hintergrund */
+  color: #eee;              /* helle Schrift */
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
